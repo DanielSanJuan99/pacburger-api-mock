@@ -1,0 +1,5 @@
+[
+{ id: 107, juego: "Street Fighter 6", participantes: 64, price_pull: 500000, fecha: "2025-12-22 00:00"},
+{ id: 108, juego: "Guilty Gear Strive", participantes: 32, price_pull: 380000, fecha: "2025-08-16 00:00"},
+{ id: 109, juego: "Soul Calibur II, participantes: 8, price_pull: 100000, fecha: "2025-07-17"}
+]
